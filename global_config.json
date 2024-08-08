@@ -1,6 +1,6 @@
 {
-    "input_audio_file" : "audio.mp3",
-    "input_image_file" : "image.png",
+    "input_audio_file" : "voide - canary.mp3",
+    "input_image_file" : "chamberlin - strawberries.JPG",
     "filter_intensity" : 5,
     "filter_intensity___comment": "Number from 0 to 10"
 }

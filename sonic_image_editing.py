@@ -97,6 +97,26 @@ class SonicImageEditing:
         else:
             self.gc = GlobalConfig()
 
+    def package_audio_qualities(self):
+        """
+        Package together a dictionary of qualities describing the audio file
+        """ 
+        return {}
+    
+    def package_image_qualities(self):
+        """
+        Package together a dictionary of qualities describing the base image file
+        """
+        return {}
+    
+    def normalize_audio_qualities(self):
+        """
+        Normalize audio qualities dictionary into usable ranges based on existing image details
+        """
+        return {}
+
+        
+
         
 
 

@@ -5,7 +5,8 @@ import sys
 required_packages = [
     'filetype',
     'PIL', 
-    'mutagen'
+    'mutagen',
+    'librosa'
 ]
 
 # Define install_and_import function
